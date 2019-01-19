@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#c0f909",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#c0f909",
         "#f4d980",
         "#f4b5c5",
         "#f9f4b1",
         "#45505b",
         "#554346",
-        "#a8f72c",
-        "#1a8b0a"
+        "#a8f72c"
       ]
     },
     "path": "@PROJECT_PATH@",
